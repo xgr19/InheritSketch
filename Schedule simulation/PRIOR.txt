@@ -1,0 +1,42 @@
+Start time = 2022-05-16 23:47:24.311329033 +0800 CST m=+0.000217150
+
+======== This is: PRIOR CAIDA18 ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.9844ms, Ideal FCT: 0.4195ms
+======== This is: PRIOR CAIDA19 ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.8828ms, Ideal FCT: 0.3702ms
+======== This is: PRIOR CERNET ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.9540ms, Ideal FCT: 0.4149ms
+
+======== This is: PRIOR CAIDA18 ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.1608ms, Ideal FCT: 0.4168ms
+======== This is: PRIOR CAIDA19 ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.0225ms, Ideal FCT: 0.3668ms
+======== This is: PRIOR CERNET ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.0684ms, Ideal FCT: 0.4122ms
+
+======== This is: PRIOR CAIDA18 ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.6838ms, Ideal FCT: 0.4216ms
+======== This is: PRIOR CAIDA19 ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.4137ms, Ideal FCT: 0.3663ms
+======== This is: PRIOR CERNET ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.3233ms, Ideal FCT: 0.4110ms
+
+======== This is: PRIOR CAIDA18 ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.9475ms, Ideal FCT: 0.4210ms
+======== This is: PRIOR CAIDA19 ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.6456ms, Ideal FCT: 0.3666ms
+======== This is: PRIOR CERNET ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.4171ms, Ideal FCT: 0.4077ms
+

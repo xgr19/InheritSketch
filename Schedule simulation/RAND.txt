@@ -1,0 +1,42 @@
+Start time = 2022-05-16 23:47:54.603339906 +0800 CST m=+0.000229732
+
+======== This is: RAND CAIDA18 ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.2204ms, Ideal FCT: 0.4224ms
+======== This is: RAND CAIDA19 ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.0197ms, Ideal FCT: 0.3633ms
+======== This is: RAND CERNET ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.0802ms, Ideal FCT: 0.4127ms
+
+======== This is: RAND CAIDA18 ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.4833ms, Ideal FCT: 0.4203ms
+======== This is: RAND CAIDA19 ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.2491ms, Ideal FCT: 0.3641ms
+======== This is: RAND CERNET ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.2146ms, Ideal FCT: 0.4138ms
+
+======== This is: RAND CAIDA18 ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 2.1786ms, Ideal FCT: 0.4204ms
+======== This is: RAND CAIDA19 ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.8168ms, Ideal FCT: 0.3649ms
+======== This is: RAND CERNET ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.5616ms, Ideal FCT: 0.4139ms
+
+======== This is: RAND CAIDA18 ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 2.6345ms, Ideal FCT: 0.4208ms
+======== This is: RAND CAIDA19 ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 2.1850ms, Ideal FCT: 0.3669ms
+======== This is: RAND CERNET ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.7069ms, Ideal FCT: 0.4133ms
+

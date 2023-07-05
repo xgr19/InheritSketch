@@ -1,0 +1,42 @@
+Start time = 2022-05-16 23:43:53.519979392 +0800 CST m=+0.000290849
+
+======== This is: SRPT CAIDA18 ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.7703ms, Ideal FCT: 0.4205ms
+======== This is: SRPT CAIDA19 ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.6602ms, Ideal FCT: 0.3659ms
+======== This is: SRPT CERNET ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.6944ms, Ideal FCT: 0.4128ms
+
+======== This is: SRPT CAIDA18 ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.8828ms, Ideal FCT: 0.4218ms
+======== This is: SRPT CAIDA19 ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.7521ms, Ideal FCT: 0.3653ms
+======== This is: SRPT CERNET ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.7619ms, Ideal FCT: 0.4118ms
+
+======== This is: SRPT CAIDA18 ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.1599ms, Ideal FCT: 0.4216ms
+======== This is: SRPT CAIDA19 ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.9779ms, Ideal FCT: 0.3657ms
+======== This is: SRPT CERNET ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.9046ms, Ideal FCT: 0.4150ms
+
+======== This is: SRPT CAIDA18 ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.3199ms, Ideal FCT: 0.4212ms
+======== This is: SRPT CAIDA19 ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 1.1161ms, Ideal FCT: 0.3686ms
+======== This is: SRPT CERNET ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 0.9551ms, Ideal FCT: 0.4117ms
+

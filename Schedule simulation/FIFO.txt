@@ -1,0 +1,42 @@
+Start time = 2022-05-16 23:46:49.571392307 +0800 CST m=+0.000250103
+
+======== This is: FIFO CAIDA18 ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 16.4014ms, Ideal FCT: 0.4202ms
+======== This is: FIFO CAIDA19 ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 15.4147ms, Ideal FCT: 0.3671ms
+======== This is: FIFO CERNET ========
+Load: 0.50, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 33.5341ms, Ideal FCT: 0.4137ms
+
+======== This is: FIFO CAIDA18 ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 21.3492ms, Ideal FCT: 0.4223ms
+======== This is: FIFO CAIDA19 ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 19.1099ms, Ideal FCT: 0.3654ms
+======== This is: FIFO CERNET ========
+Load: 0.60, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 40.4423ms, Ideal FCT: 0.4146ms
+
+======== This is: FIFO CAIDA18 ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 32.0089ms, Ideal FCT: 0.4189ms
+======== This is: FIFO CAIDA19 ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 30.0178ms, Ideal FCT: 0.3671ms
+======== This is: FIFO CERNET ========
+Load: 0.80, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 50.0346ms, Ideal FCT: 0.4108ms
+
+======== This is: FIFO CAIDA18 ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 38.1420ms, Ideal FCT: 0.4209ms
+======== This is: FIFO CAIDA19 ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 35.6292ms, Ideal FCT: 0.3673ms
+======== This is: FIFO CERNET ========
+Load: 0.90, Flows: 100000, Band: 10.00Gbps
+Tot FCT: 57.3889ms, Ideal FCT: 0.4126ms
+
